@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "clipboard": "^2.0.11",
+    "dayjs": "^1.11.6",
+    "uview-ui": "^2.0.31",
+    "xgplayer": "^2.32.2",
+    "xgplayer-hls": "^2.5.2",
+    "xgplayer-hls.js": "^2.6.3"
+  }
+}

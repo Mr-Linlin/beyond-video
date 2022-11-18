@@ -1,0 +1,29 @@
+{
+  "hash": "0b0d254c",
+  "browserHash": "e6c8a769",
+  "optimized": {
+    "xgplayer": {
+      "src": "../../node_modules/_xgplayer@2.32.2@xgplayer/dist/index.js",
+      "file": "xgplayer.js",
+      "fileHash": "86307a08",
+      "needsInterop": true
+    },
+    "xgplayer-hls": {
+      "src": "../../node_modules/_xgplayer-hls@2.5.2@xgplayer-hls/es/index.js",
+      "file": "xgplayer-hls.js",
+      "fileHash": "aa6a4c43",
+      "needsInterop": false
+    },
+    "xgplayer-hls.js": {
+      "src": "../../node_modules/_xgplayer-hls.js@2.6.3@xgplayer-hls.js/dist/index.js",
+      "file": "xgplayer-hls_js.js",
+      "fileHash": "531566ce",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-YRG35TXW": {
+      "file": "chunk-YRG35TXW.js"
+    }
+  }
+}
